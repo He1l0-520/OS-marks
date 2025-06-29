@@ -1,0 +1,7 @@
+- [x] lucario
+- [x] loona
+- [x] eevee
+- [x] gardevoir
+- [x] digimon
+- [x] lopunny
+- [x] judy
